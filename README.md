@@ -1,2 +1,2 @@
-# challenges
-javascript challenge
+# practice
+everything practice
